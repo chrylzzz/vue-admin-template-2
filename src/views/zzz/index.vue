@@ -83,7 +83,6 @@
       >
         <!-- 
         @cell-dblclick="dbClickRow"
-
         :index="indexMethod"
           default-sort 
           v-loading="loading"
